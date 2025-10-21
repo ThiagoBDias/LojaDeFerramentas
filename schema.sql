@@ -57,4 +57,3 @@ INSERT INTO `ferramentas` (`nome`, `descricao`, `preco`, `categoria_id`, `imagem
 ('Tesoura de Poda', 'Lâmina de aço carbono, ideal para podas de galhos pequenos.', 35.50, 3, 'https://via.placeholder.com/300x300.png?text=Tesoura+de+Poda'),
 ('Parafusadeira a Bateria 12V', 'Compacta e eficiente, com bateria de longa duração.', 299.00, 1, 'https://via.placeholder.com/300x300.png?text=Parafusadeira');
 
-aa
